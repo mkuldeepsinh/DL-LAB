@@ -19,3 +19,5 @@ __pycache__/
 *.pth
 *.tar.gz
 data/
+ASSIGNMENT_03/data/
+ASSIGNMENT_03/data
